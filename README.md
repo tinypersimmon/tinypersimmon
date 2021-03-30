@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rosa, aka @tinypersimmon !
 - 👀 I am a 3rd year student studying Chemical Engineering and Data Science.
 - 🌱 I am currently learning Python and how to be a better scientist/engineer haha.
-- 💞️ Interests: electrochemistry, genomics, building tools !
+- 💞️ Interests: modeling, data science, electrochemistry, computational biology
 - 📫 rosazhang (at) berkeley.edu
 
 <!---
