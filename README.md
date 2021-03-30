@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rosa, aka @tinypersimmon !
+- 👋 Hi, I’m Rosa (@tinypersimmon) !
 - 👀 I am a 3rd year student studying Chemical Engineering and Data Science.
 - 🌱 I am currently learning Python and how to be a better scientist/engineer haha.
 - 💞️ Interests: modeling, data science, electrochemistry, computational biology
