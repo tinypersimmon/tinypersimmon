@@ -1,8 +1,13 @@
+## About me
 - 👋 Hi, I’m Rosa (@tinypersimmon) !
-- 👀 I am a 4th year student (graduating Fall 2022) studying Chemical Engineering and Data Science.
+- 👀 I am a 4th year student studying Chemical Engineering and Data Science, graduting Fall 2022.
 - 🌱 I am learning how to be a better scientist/engineer all the time!
-- 💞️ Interests: full-stack & front-end design, tool building, data analystics
-- 📫 Email: rosazhang (at) berkeley (dot) edu
+- 💞️ **Interests**: full-stack & front-end design, tool building, data analystics
+- 📫 **Email**: rosazhang (at) berkeley (dot) edu
+
+## Repo highlights:
+- **Data analysis** for race data from my dragon boat team! Names removed for anonymity.
+- **Scripts** in Java for simple nucleotide translation.
 
 <!---
 tinypersimmon/tinypersimmon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
