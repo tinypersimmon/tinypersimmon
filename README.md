@@ -1,7 +1,7 @@
 ## About me
 - 👋 Hi, I’m Rosa (@tinypersimmon) !
-- 👀 I am a 4th year student studying Chemical Engineering and Data Science, graduting Fall 2022.
-- 🌱 I am learning how to be a better scientist/engineer all the time!
+- 👀 I graduated from UC Berkeley with a BS in Chemical Engineering, but my interests are in CS/DS!
+- 🌱 I am learning how to be a better scientist/engineer all the time :)
 - 💞️ **Interests**: full-stack & front-end design, tool building, data analystics
 - 📫 **Email**: rosazhang (at) berkeley (dot) edu
 
