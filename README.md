@@ -1,9 +1,9 @@
 ## About me
 - 👋 Hi, I’m Rosa (@tinypersimmon) !
 - 👀 I graduated from UC Berkeley with a BS in Chemical Engineering, but my interests are in CS/DS!
-- 🌱 I am learning how to be a better scientist/engineer all the time :)
-- 💞️ **Interests**: full-stack & front-end design, tool building, data analystics
-- 📫 **Email**: rosazhang (at) berkeley (dot) edu
+- 🌱 I am learning how to be a better scientist & engineer all the time :)
+- 💞️ **Interests**: piecing together API integrations, building tools that empower people.
+- 📫 **Email**: zhangrosa (at) gmail (dot) edu
 
 ## Repo highlights:
 - **Data analysis** for race data from my dragon boat team! Names removed for anonymity.
