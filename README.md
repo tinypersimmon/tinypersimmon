@@ -6,8 +6,8 @@
 - 📫 **Email**: zhangrosa (at) gmail (dot) edu
 
 ## Repo highlights:
-- **Data analysis** for race data from my dragon boat team! Names removed for anonymity.
-- **Scripts** in Java for simple nucleotide translation.
+- **Berkeley National Lab research**: presented at 2022 ElectroChemical Society Conference
+- **Making my own website**: Building a website to track my training + travels!
 
 <!---
 tinypersimmon/tinypersimmon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
