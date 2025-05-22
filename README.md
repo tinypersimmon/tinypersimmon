@@ -7,7 +7,6 @@
 
 ## Repo highlights:
 - **Berkeley National Lab research**: presented at 2022 ElectroChemical Society Conference
-- **Making my own website**: Building a website to track my training + travels!
 
 <!---
 tinypersimmon/tinypersimmon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
