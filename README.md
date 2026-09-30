@@ -1,8 +1,8 @@
 ## About me
-- 👋 Hi, I’m Rosa (@tinypersimmon) !
-- 👀 UC Berkeley → NYU Chemical Engineering: accelerating sustainable energy technologies using ML/AI
-- 🌱 I am learning how to be a better scientist & engineer all the time.
-- 💞️ **Interests**: writing, water sports.
+- 👋 Hi, I’m Rosa! I'm currently a PhD student at NYU Chemical Engineering, advised by Prof. Justin Bui and Prof. Phillip Rauscher.
+- 🥽 I'm interested in using ML/AI to accelerate sustainable energy technology research for scaleable implementation.
+- 🌱 I previously studied hydrogen PEM fuel cells at Lawrence Berkeley National Lab during my undergraduate @ UC Berkeley.
+- 💞️ **Interests**: surfing, coffee, water sports, and the fluid dynamics of everything!
 - 📫 **Email**: rosazhang (at) nyu (dot) edu
 
 ## Repo highlights:
